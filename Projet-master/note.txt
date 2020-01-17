@@ -1,0 +1,20 @@
+			acceuil = renommer en "index.html"
+affiche_livre
+affiche_personne
+afficher_emprunt
+ajouter_emprunt
+ajouter_livre
+connexion(non fonctionnel/ a supprimer)
+images
+index
+indexb
+indexb(php)
+inscription
+inscription1
+modifier_emprunt
+modifier_livre
+monstyle css
+sup_emprunt
+sup_livre
+sup_personne
+connexion1
